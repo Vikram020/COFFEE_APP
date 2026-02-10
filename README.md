@@ -1,16 +1,19 @@
-# coffee_app
+# ☕ Flutter Coffee Shop App
 
-A new Flutter project.
+A modern and beautiful **Coffee Shop mobile application** built using **Flutter** with clean architecture, smooth animations, and a professional UI.
 
-## Getting Started
+This project demonstrates how to structure a real-world Flutter app with scalable folders, reusable widgets, and elegant design.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Clean Architecture (feature-based structure)  
+✅ Modern coffee-themed UI  
+✅ Smooth fade animations  
+✅ Hero transitions  
+✅ Product grid layout  
+✅ Details page  
+✅ Cart page  
+✅ Centralized routing  
+✅ Material 3 design  
+✅ Beginner friendly & production ready  
